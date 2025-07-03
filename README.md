@@ -1,4 +1,4 @@
-##A Simple Password Generator
+#A Simple Password Generator
 
 clone the repo
 npm i 
